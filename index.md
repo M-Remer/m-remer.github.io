@@ -1,0 +1,12 @@
+---
+layout: page
+title: Bio
+image: "michele_headshot.jpg"
+
+Hi, I am a PhD student at Michigan State University in the Center for Systems Integration and Sustainability. I am broadly interested in researching changing environmental systems to ensure both thriving natural and human communities. My previous work has spanned state, federal, and non-profit organizations, giving me a unique understanding of how each can contribute to sustainability.
+
+One of the main projects that I’ve been assisting on during my PhD is the Arctic Telecoupling Project. Here, I mainly research Arctic tourism and the potential for invasive species to spread.
+
+In my free time, I enjoy reading, very amateur photography, and biking.
+
+---
